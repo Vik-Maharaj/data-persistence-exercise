@@ -1,0 +1,38 @@
+[
+    {
+        "product": "batman",
+        "review": "tastes good",
+        "username": "vik-maharaj",
+        "review_id": "50da"
+    },
+    {
+        "product": "testproduct",
+        "review": "good",
+        "username": "vik-maharaj",
+        "review_id": "4ba6"
+    },
+    {
+        "product": "climbers",
+        "review": "hard",
+        "username": "markjavahi",
+        "review_id": "c4ea"
+    },
+    {
+        "product": "gummy bears",
+        "review": "awesome",
+        "username": "drvik@aol.com",
+        "review_id": "e766"
+    },
+    {
+        "product": "world",
+        "review": "nice",
+        "username": "VKM",
+        "review_id": "fc84"
+    },
+    {
+        "product": "playground",
+        "review": "fun",
+        "username": "drvik@aol.com",
+        "review_id": "4304"
+    }
+]
